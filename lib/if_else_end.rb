@@ -4,4 +4,4 @@
 current_time = Time.now
 
 # convert current time to int and determine if even or odd
-if current_time.to_i % 
+if current_time.to_i % 2 == 0
